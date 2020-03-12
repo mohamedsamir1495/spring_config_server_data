@@ -1,0 +1,3 @@
+---
+rabbitmq:
+  connection: amqp://egypt:5672

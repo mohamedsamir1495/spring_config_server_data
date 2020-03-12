@@ -1,0 +1,3 @@
+---
+database:
+  connection: jdbc:mysql://london:3306/mysql
