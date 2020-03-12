@@ -1,0 +1,3 @@
+---
+database:
+  connection: jdbc:mysql://egypt:3306/mysql
