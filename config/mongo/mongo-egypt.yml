@@ -1,0 +1,3 @@
+---
+mongo:
+  connection: mongodb://egypt:27017
