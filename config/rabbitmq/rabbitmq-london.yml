@@ -1,3 +1,0 @@
----
-rabbitmq:
-  connection: amqp://london:5672

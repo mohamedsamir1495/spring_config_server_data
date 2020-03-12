@@ -1,0 +1,3 @@
+---
+smtp:
+  connection: Smtp.egypt.com

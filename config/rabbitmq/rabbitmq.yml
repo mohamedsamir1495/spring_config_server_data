@@ -1,3 +1,0 @@
----
-rabbitmq:
-  connection: amqp://localhost:5672
